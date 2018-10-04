@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274178297058",
+    "firebase_url": "https://loginsamplekotlin.firebaseio.com",
+    "project_id": "loginsamplekotlin",
+    "storage_bucket": "loginsamplekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274178297058:android:c7ac53277b127877",
+        "android_client_info": {
+          "package_name": "com.pelingulcinar.loginsamplekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274178297058-43v1rqdvvq9mkm0o0uguo17f5h8tb7et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pelingulcinar.loginsamplekotlin",
+            "certificate_hash": "c3c03840d9147939368c63bc9c30ff39982daca4"
+          }
+        },
+        {
+          "client_id": "274178297058-o7bhnalamju8is07g2av28l55uj2h73i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWzjvUVKv5LXfpiq_J_7vRivcnrCffS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274178297058-o7bhnalamju8is07g2av28l55uj2h73i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
